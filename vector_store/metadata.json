@@ -1,0 +1,199 @@
+{
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "dimension": 384,
+  "total_chunks": 32,
+  "chunks": [
+    {
+      "chunk_id": "01_diabetes_symptoms_and_types.txt_chunk_000",
+      "source_name": "01_diabetes_symptoms_and_types.txt",
+      "text": "# Document Title: Clinical Guidelines on Diabetes Mellitus: Types, Etiology, and Clinical Manifestations\n# Source: World Health Organization (WHO) & Centers for Disease Control and Prevention (CDC) Clinical Factsheets\n# Document ID: DOC-01-DIAB-OVERVIEW",
+      "char_count": 253
+    },
+    {
+      "chunk_id": "01_diabetes_symptoms_and_types.txt_chunk_001",
+      "source_name": "01_diabetes_symptoms_and_types.txt",
+      "text": "rol and Prevention (CDC) Clinical Factsheets\n# Document ID: DOC-01-DIAB-OVERVIEW\n\n1. DEFINITION AND PATHOPHYSIOLOGY\nDiabetes mellitus is a chronic metabolic disorder characterized by persistent hyperglycemia resulting from defects in insulin secretion, insulin action, or both. Chronic hyperglycemia is associated with long-term damage, dysfunction, and failure of various organs, especially the eyes, kidneys, nerves, heart, and blood vessels.",
+      "char_count": 444
+    },
+    {
+      "chunk_id": "01_diabetes_symptoms_and_types.txt_chunk_002",
+      "source_name": "01_diabetes_symptoms_and_types.txt",
+      "text": "various organs, especially the eyes, kidneys, nerves, heart, and blood vessels.\n\n2. CLASSIFICATION OF DIABETES\n- Type 1 Diabetes Mellitus: An autoimmune disease characterized by immune-mediated pancreatic beta-cell destruction, leading to absolute insulin deficiency. It typically presents in children and young adults with acute onset.\n- Type 2 Diabetes Mellitus: Accounts for over 90% to 95% of all diabetes cases. It is characterized by progressive insulin secretory defect on the background of chronic insulin resistance. Strongly correlated with excess body adiposity, physical inactivity, advancing age, and polygenic predisposition.\n- Gestational Diabetes Mellitus (GDM): Glucose intolerance diagnosed in the second or third trimester of pregnancy that was not clearly overt diabetes prior to gestation.\n- Prediabetes: An intermediate metabolic state where blood glucose levels are higher than normal (fasting glucose 100-125 mg/dL or HbA1c 5.7%-6.4%) but below the threshold for clinical diabetes. Prediabetes carries a significant risk of progression to Type 2 diabetes and cardiovascular disease.",
+      "char_count": 1106
+    },
+    {
+      "chunk_id": "01_diabetes_symptoms_and_types.txt_chunk_003",
+      "source_name": "01_diabetes_symptoms_and_types.txt",
+      "text": "a significant risk of progression to Type 2 diabetes and cardiovascular disease.\n\n3. CLASSIC CLINICAL SYMPTOMS\nPatients with symptomatic hyperglycemia frequently present with the classic triad of \"polys\":\n- Polyuria: Frequent urination triggered by osmotic diuresis when blood glucose exceeds renal threshold (~180 mg/dL).\n- Polydipsia: Excessive thirst resulting from fluid loss and cellular dehydration.\n- Polyphagia: Persistent excessive hunger due to cellular energy deprivation despite elevated circulating glucose.\n- Unexplained weight loss: Inability to utilize glucose causes catabolism of muscle tissue and adipose stores.\n- Generalized chronic fatigue and lethargy.\n- Blurred vision: Due to osmotic fluid shifts altering the shape of the crystalline lens of the eye.\n- Slow-healing sores, recurrent skin infections, or persistent candidiasis.",
+      "char_count": 852
+    },
+    {
+      "chunk_id": "01_diabetes_symptoms_and_types.txt_chunk_004",
+      "source_name": "01_diabetes_symptoms_and_types.txt",
+      "text": "eye.\n- Slow-healing sores, recurrent skin infections, or persistent candidiasis.\n\n4. MAJOR RISK FACTORS FOR TYPE 2 DIABETES\n- Overweight or obesity: Body Mass Index (BMI) >= 25 kg/m2 (or >= 23 kg/m2 in Asian populations).\n- Physical inactivity: Sedentary lifestyle with fewer than 3 sessions of exercise weekly.\n- Age: Being 45 years or older, although incidence is rising rapidly in younger cohorts.\n- Family history: First-degree relative (parent or sibling) with Type 2 diabetes.\n- High-risk race/ethnicity: African American, Hispanic/Latino, American Indian, Asian American, or Pacific Islander.\n- History of gestational diabetes or delivering a baby weighing > 9 pounds (4.1 kg).\n- Comorbidities: Hypertension (BP >= 130/80 mmHg), dyslipidemia (HDL < 35 mg/dL or triglycerides > 250 mg/dL), or polycystic ovary syndrome (PCOS).",
+      "char_count": 832
+    },
+    {
+      "chunk_id": "02_hypertension_and_cardiovascular_risk.txt_chunk_000",
+      "source_name": "02_hypertension_and_cardiovascular_risk.txt",
+      "text": "# Document Title: Hypertension Guidelines, Blood Pressure Staging, and Cardiovascular Complications\n# Source: American Heart Association (AHA) / American College of Cardiology (ACC) & CDC\n# Document ID: DOC-02-HTN-CARDIO",
+      "char_count": 220
+    },
+    {
+      "chunk_id": "02_hypertension_and_cardiovascular_risk.txt_chunk_001",
+      "source_name": "02_hypertension_and_cardiovascular_risk.txt",
+      "text": "A) / American College of Cardiology (ACC) & CDC\n# Document ID: DOC-02-HTN-CARDIO\n\n1. BLOOD PRESSURE CLASSIFICATION CATEGORIES (ACC/AHA GUIDELINES)\nBlood pressure is categorized into four clinical tiers based on seated resting office measurements:\n- Normal Blood Pressure: Systolic BP < 120 mmHg AND Diastolic BP < 80 mmHg.\n- Elevated Blood Pressure: Systolic BP 120-129 mmHg AND Diastolic BP < 80 mmHg.\n- Stage 1 Hypertension: Systolic BP 130-139 mmHg OR Diastolic BP 80-89 mmHg.\n- Stage 2 Hypertension: Systolic BP >= 140 mmHg OR Diastolic BP >= 90 mmHg.\n- Hypertensive Crisis: Systolic BP > 180 mmHg and/or Diastolic BP > 120 mmHg. Requires prompt clinical assessment or emergency hospitalization if accompanied by target organ damage.",
+      "char_count": 737
+    },
+    {
+      "chunk_id": "02_hypertension_and_cardiovascular_risk.txt_chunk_002",
+      "source_name": "02_hypertension_and_cardiovascular_risk.txt",
+      "text": "l assessment or emergency hospitalization if accompanied by target organ damage.\n\n2. SYNERGISTIC CARDIOVASCULAR RISK IN DIABETIC PATIENTS\nHypertension and diabetes mellitus frequently coexist, creating an additive, multiplicative risk for macrovascular and microvascular pathology:\n- Atherosclerotic Cardiovascular Disease (ASCVD): The leading cause of morbidity and mortality among individuals with diabetes. Patients with both diabetes and hypertension have a 2- to 4-fold higher risk of myocardial infarction, heart failure, and stroke compared to non-diabetic individuals.\n- Endothelial Dysfunction: Insulin resistance and elevated glucose levels stimulate vascular smooth muscle cell proliferation, decrease nitric oxide bioavailability, and accelerate arterial stiffness.\n- Microvascular Renal Damage (Diabetic Kidney Disease / Nephropathy): Glomerular hypertension combined with hyperglycemia causes progressive glomerulosclerosis, leading to microalbuminuria, macroalbuminuria, and progressive loss of Estimated Glomerular Filtration Rate (eGFR).",
+      "char_count": 1054
+    },
+    {
+      "chunk_id": "02_hypertension_and_cardiovascular_risk.txt_chunk_003",
+      "source_name": "02_hypertension_and_cardiovascular_risk.txt",
+      "text": "lbuminuria, and progressive loss of Estimated Glomerular Filtration Rate (eGFR).\n\n3. BLOOD PRESSURE TARGETS IN METABOLIC SYNDROME\nFor adults with confirmed diabetes and hypertension, clinical guidelines recommend an on-treatment blood pressure target of < 130/80 mmHg, provided it can be safely attained without orthostatic hypotension or adverse drug events. First-line antihypertensive agents with renal-protective properties in diabetic patients include Angiotensin-Converting Enzyme (ACE) inhibitors or Angiotensin Receptor Blockers (ARBs), especially in the presence of urinary albuminuria.",
+      "char_count": 595
+    },
+    {
+      "chunk_id": "03_lifestyle_modifications_nutrition_exercise.txt_chunk_000",
+      "source_name": "03_lifestyle_modifications_nutrition_exercise.txt",
+      "text": "# Document Title: Evidence-Based Lifestyle Interventions: Nutrition, Physical Activity, and Weight Reduction\n# Source: American Diabetes Association (ADA) Standards of Care & CDC National Diabetes Prevention Program (NDPP)\n# Document ID: DOC-03-LIFESTYLE-NUTRITION",
+      "char_count": 264
+    },
+    {
+      "chunk_id": "03_lifestyle_modifications_nutrition_exercise.txt_chunk_001",
+      "source_name": "03_lifestyle_modifications_nutrition_exercise.txt",
+      "text": "nal Diabetes Prevention Program (NDPP)\n# Document ID: DOC-03-LIFESTYLE-NUTRITION\n\n1. DIETARY PATTERNS AND MEDICAL NUTRITION THERAPY (MNT)\nLifestyle modification is the cornerstone of type 2 diabetes management and prevention:\n- Macronutrient Distribution: There is no ideal one-size-fits-all percentage of calories from carbohydrates, protein, and fat. Evidence strongly favors healthy dietary patterns such as the Mediterranean Diet, Dietary Approaches to Stop Hypertension (DASH), and whole-food plant-predominant dietary patterns.\n- Dietary Fiber: High intake of dietary soluble and insoluble fiber (minimum 25-35 grams daily or 14g/1000 kcal) delays carbohydrate absorption, blunts postprandial glucose spikes, and promotes healthy gut microbiota. Sources include legumes, whole oats, barley, chia seeds, vegetables, and berries.\n- Carbohydrate Quality: Emphasize complex carbohydrates with a low glycemic index and low glycemic load. Strongly discourage sugar-sweetened beverages (soda, fruit juices, sweetened teas), refined grains, pastries, and confectionery products.\n- Sodium Restriction: For patients with diabetes and hypertension, limit sodium intake to < 2,300 mg/day (or < 1,500 mg/day in individuals with severe hypertension or chronic kidney disease).\n- Healthy Fats: Replace saturated and trans-fats with mono- and polyunsaturated fatty acids found in extra virgin olive oil, nuts, seeds, avocados, and omega-3 fatty acids from wild-caught cold-water fish.",
+      "char_count": 1474
+    },
+    {
+      "chunk_id": "03_lifestyle_modifications_nutrition_exercise.txt_chunk_002",
+      "source_name": "03_lifestyle_modifications_nutrition_exercise.txt",
+      "text": "nuts, seeds, avocados, and omega-3 fatty acids from wild-caught cold-water fish.\n\n2. PHYSICAL ACTIVITY RECOMMENDATIONS\n- Aerobic Exercise: Adults with prediabetes or diabetes should engage in at least 150 minutes of moderate-intensity aerobic physical activity per week (such as brisk walking, swimming, cycling, or water aerobics) spread over at least 3 days per week, with no more than 2 consecutive days without activity.\n- Resistance Training: Moderate-to-vigorous resistance training (free weights, resistance machines, or bodyweight exercises) at least 2 to 3 sessions per week on non-consecutive days enhances muscle insulin sensitivity and glucose uptake via GLUT-4 translocation independent of insulin.\n- Interrupting Sedentary Time: Prolonged sitting should be interrupted every 30 minutes with light walking or standing stretches to improve glycemic control.",
+      "char_count": 869
+    },
+    {
+      "chunk_id": "03_lifestyle_modifications_nutrition_exercise.txt_chunk_003",
+      "source_name": "03_lifestyle_modifications_nutrition_exercise.txt",
+      "text": "30 minutes with light walking or standing stretches to improve glycemic control.\n\n3. TARGET WEIGHT LOSS\nIn individuals with overweight or obesity and prediabetes or type 2 diabetes, modest sustained weight loss of 5% to 7% of initial body weight significantly improves glycemic markers, reduces required medication dosages, and reduces progression from prediabetes to diabetes by up to 58% (71% in adults aged >= 60 years) based on the Landmark Diabetes Prevention Program (DPP) trial.",
+      "char_count": 485
+    },
+    {
+      "chunk_id": "04_hba1c_and_glycemic_targets.txt_chunk_000",
+      "source_name": "04_hba1c_and_glycemic_targets.txt",
+      "text": "# Document Title: Diagnostic Criteria, Glycemic Targets, and Glycated Hemoglobin (HbA1c) Monitoring\n# Source: National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) & ADA Guidelines\n# Document ID: DOC-04-HBA1C-TARGETS",
+      "char_count": 235
+    },
+    {
+      "chunk_id": "04_hba1c_and_glycemic_targets.txt_chunk_001",
+      "source_name": "04_hba1c_and_glycemic_targets.txt",
+      "text": "and Kidney Diseases (NIDDK) & ADA Guidelines\n# Document ID: DOC-04-HBA1C-TARGETS\n\n1. DIAGNOSTIC CRITERIA FOR DIABETES AND PREDIABETES\nDiabetes can be formally diagnosed using one of four validated laboratory measurements:\n- Glycated Hemoglobin (HbA1c):\n * Normal: Below 5.7% (below 39 mmol/mol)\n * Prediabetes: 5.7% to 6.4% (39 to 47 mmol/mol)\n * Diabetes: 6.5% or higher (48 mmol/mol or higher)\n- Fasting Plasma Glucose (FPG) (after an overnight fast of at least 8 hours):\n * Normal: Below 100 mg/dL (5.6 mmol/L)\n * Impaired Fasting Glucose (Prediabetes): 100 to 125 mg/dL (5.6 to 6.9 mmol/L)\n * Diabetes: 126 mg/dL (7.0 mmol/L) or higher\n- 2-Hour Oral Glucose Tolerance Test (OGTT) (75-gram anhydrous glucose dissolved in water):\n * Normal: Below 140 mg/dL (7.8 mmol/L)\n * Impaired Glucose Tolerance (Prediabetes): 140 to 199 mg/dL (7.8 to 11.0 mmol/L)\n * Diabetes: 200 mg/dL (11.1 mmol/L) or higher\n- Random Plasma Glucose: In a patient with classic symptoms of severe hyperglycemia or hyperglycemic crisis, a random plasma glucose >= 200 mg/dL (11.1 mmol/L) confirms diagnosis.",
+      "char_count": 1081
+    },
+    {
+      "chunk_id": "04_hba1c_and_glycemic_targets.txt_chunk_002",
+      "source_name": "04_hba1c_and_glycemic_targets.txt",
+      "text": "c crisis, a random plasma glucose >= 200 mg/dL (11.1 mmol/L) confirms diagnosis.\n\n2. GLYCEMIC TARGETS FOR NON-PREGNANT ADULTS WITH DIABETES\n- General Adult HbA1c Target: Less than 7.0% (53 mmol/mol) for most non-pregnant adults without significant hypoglycemia.\n- Stringent Target (< 6.5%): May be appropriate for selected individuals with short disease duration, long life expectancy, and no significant cardiovascular disease, if achievable without hypoglycemia.\n- Less Stringent Target (< 8.0%): Appropriate for patients with severe history of hypoglycemia, limited life expectancy, advanced microvascular or macrovascular complications, or extensive comorbid conditions.\n- Preprandial Capillary Blood Glucose: 80 to 130 mg/dL (4.4 to 7.2 mmol/L).\n- Peak Postprandial Capillary Blood Glucose (1-2 hours after beginning of meal): Less than 180 mg/dL (10.0 mmol/L).",
+      "char_count": 866
+    },
+    {
+      "chunk_id": "04_hba1c_and_glycemic_targets.txt_chunk_003",
+      "source_name": "04_hba1c_and_glycemic_targets.txt",
+      "text": "Glucose (1-2 hours after beginning of meal): Less than 180 mg/dL (10.0 mmol/L).\n\n3. FREQUENCY OF HBA1C TESTING\n- Perform HbA1c test at least twice a year in patients who are meeting treatment goals and have stable glycemic control.\n- Perform HbA1c quarterly (every 3 months) in patients whose therapy has changed or who are not meeting glycemic goals.",
+      "char_count": 351
+    },
+    {
+      "chunk_id": "05_red_flag_symptoms_emergency_consultation.txt_chunk_000",
+      "source_name": "05_red_flag_symptoms_emergency_consultation.txt",
+      "text": "# Document Title: Acute Complications, Red-Flag Symptoms, and Emergency Consultation Guidelines\n# Source: Emergency Medicine / Endocrine Society & CDC Public Health Advisories\n# Document ID: DOC-05-RED-FLAGS-EMERGENCY",
+      "char_count": 217
+    },
+    {
+      "chunk_id": "05_red_flag_symptoms_emergency_consultation.txt_chunk_001",
+      "source_name": "05_red_flag_symptoms_emergency_consultation.txt",
+      "text": "Society & CDC Public Health Advisories\n# Document ID: DOC-05-RED-FLAGS-EMERGENCY\n\n1. IMMEDIATE EMERGENCY RED-FLAG CONDITIONS\nPatients with diabetes, metabolic syndrome, or severe hypertension who experience the following acute red-flag symptoms must seek immediate emergency medical care (call emergency medical services / 911 immediately):",
+      "char_count": 340
+    },
+    {
+      "chunk_id": "05_red_flag_symptoms_emergency_consultation.txt_chunk_002",
+      "source_name": "05_red_flag_symptoms_emergency_consultation.txt",
+      "text": "iate emergency medical care (call emergency medical services / 911 immediately):\n\n2. DIABETIC KETOACIDOSIS (DKA)\nDKA is a life-threatening acute metabolic decompensation characterized by profound insulin deficiency, severe hyperglycemia (typically > 250 mg/dL), metabolic acidosis, and ketonemia. While most prevalent in Type 1 diabetes, it can occur in Type 2 diabetes during severe physiologic stress (e.g., sepsis, myocardial infarction, acute pancreatitis).\nRed-Flag Warning Signs:\n- Fruity, acetone-scented breath odor.\n- Nausea, persistent vomiting, and acute abdominal pain.\n- Kussmaul respirations: Deep, rapid, labored breathing as respiratory compensation for metabolic acidosis.\n- Altered mental status: Progressive drowsiness, confusion, stupor, or coma.\n- High levels of ketones detected in urine or blood.",
+      "char_count": 819
+    },
+    {
+      "chunk_id": "05_red_flag_symptoms_emergency_consultation.txt_chunk_003",
+      "source_name": "05_red_flag_symptoms_emergency_consultation.txt",
+      "text": "confusion, stupor, or coma.\n- High levels of ketones detected in urine or blood.\n\n3. HYPEROSMOLAR HYPERGLYCEMIC STATE (HHS)\nHHS is an acute metabolic emergency seen primarily in older adults with Type 2 diabetes. It carries a mortality rate of up to 10-20%.\nRed-Flag Warning Signs:\n- Extreme hyperglycemia: Blood glucose frequently exceeds 600 mg/dL (33.3 mmol/L).\n- Profound dehydration, dry mucous membranes, sunken eyes, hypovolemia, and tachycardia.\n- Severe neurological impairment: Confusion, delirium, visual hallucinations, hemiparesis, focal seizures, and coma. Ketosis is minimal or absent.",
+      "char_count": 600
+    },
+    {
+      "chunk_id": "05_red_flag_symptoms_emergency_consultation.txt_chunk_004",
+      "source_name": "05_red_flag_symptoms_emergency_consultation.txt",
+      "text": "ucinations, hemiparesis, focal seizures, and coma. Ketosis is minimal or absent.\n\n4. SEVERE HYPOGLYCEMIA (BLOOD GLUCOSE < 54 MG/DL)\nSevere hypoglycemia is an acute clinical emergency where the patient requires third-party assistance to recover:\n- Confusion, bizarre behavior, disorientation, or inability to swallow.\n- Generalized seizures, convulsions, or loss of consciousness / diabetic coma.\n- Treatment Protocol: Do not force oral fluids into an unconscious patient. Administer emergency intramuscular or nasal glucagon, call 911, and position patient in recovery position to prevent aspiration.",
+      "char_count": 600
+    },
+    {
+      "chunk_id": "05_red_flag_symptoms_emergency_consultation.txt_chunk_005",
+      "source_name": "05_red_flag_symptoms_emergency_consultation.txt",
+      "text": "agon, call 911, and position patient in recovery position to prevent aspiration.\n\n5. HYPERTENSIVE CRISIS AND ACUTE VASCULAR EMERGENCIES\n- Severe Blood Pressure Elevation: Systolic BP > 180 mmHg or Diastolic BP > 120 mmHg.\n- If accompanied by crushing chest pain, radiating left arm pain (acute coronary syndrome), shortness of breath (acute pulmonary edema), severe sudden headache, or acute focal neurological deficits (stroke warning signs - FAST: Face drooping, Arm weakness, Slurred speech, Time to call 911), immediately transport to emergency department.",
+      "char_count": 560
+    },
+    {
+      "chunk_id": "06_preventive_screening_guidelines.txt_chunk_000",
+      "source_name": "06_preventive_screening_guidelines.txt",
+      "text": "# Document Title: Preventive Screening Schedules, Microvascular Monitoring, and Clinical Surveillance\n# Source: American Diabetes Association (ADA) Clinical Practice Recommendations\n# Document ID: DOC-06-PREVENTIVE-SCREENING\n\n1. ROUTINE PREVENTIVE SURVEILLANCE SCHEDULE\nEarly identification of microvascular and macrovascular disease allows timely therapeutic intervention to arrest progression:",
+      "char_count": 395
+    },
+    {
+      "chunk_id": "06_preventive_screening_guidelines.txt_chunk_001",
+      "source_name": "06_preventive_screening_guidelines.txt",
+      "text": "rovascular disease allows timely therapeutic intervention to arrest progression:\n\n2. DIABETIC RETINOPATHY SCREENING\n- Frequency: Initial dilated and comprehensive eye examination by an ophthalmologist or optometrist upon diagnosis of Type 2 diabetes, and annually thereafter.\n- Rationale: Diabetic retinopathy is a leading cause of preventable adult blindness. Symptoms are typically absent until significant irreversible damage has occurred. Early laser photocoagulation or anti-VEGF intravitreal therapy prevents severe visual loss.",
+      "char_count": 534
+    },
+    {
+      "chunk_id": "06_preventive_screening_guidelines.txt_chunk_002",
+      "source_name": "06_preventive_screening_guidelines.txt",
+      "text": "photocoagulation or anti-VEGF intravitreal therapy prevents severe visual loss.\n\n3. DIABETIC KIDNEY DISEASE (NEPHROPATHY) SCREENING\n- Frequency: At least once annually, assess:\n * Spot urinary albumin-to-creatinine ratio (uACR): Microalbuminuria is defined as 30-299 mg/g creatinine; Macroalbuminuria is >= 300 mg/g creatinine.\n * Estimated Glomerular Filtration Rate (eGFR): Calculated from serum creatinine. Values < 60 mL/min/1.73 m2 indicate chronic kidney disease.\n- Management: Early ACE inhibitors, ARBs, or SGLT2 inhibitors retard nephropathy progression.",
+      "char_count": 563
+    },
+    {
+      "chunk_id": "06_preventive_screening_guidelines.txt_chunk_003",
+      "source_name": "06_preventive_screening_guidelines.txt",
+      "text": "Early ACE inhibitors, ARBs, or SGLT2 inhibitors retard nephropathy progression.\n\n4. COMPREHENSIVE DIABETIC FOOT EXAMINATION\n- Frequency: Annual comprehensive clinical foot examination, along with visual inspection at every routine office visit.\n- Diagnostic Tests:\n * 10-gram Semmes-Weinstein monofilament test to identify loss of protective sensation (LOPS).\n * Assessment of pedal pulses (dorsalis pedis and posterior tibial) to screen for peripheral artery disease (PAD).\n * Inspection for skin breakdown, calluses, fungal infections, ulcerations, and Charcot neuroarthropathy.",
+      "char_count": 580
+    },
+    {
+      "chunk_id": "06_preventive_screening_guidelines.txt_chunk_004",
+      "source_name": "06_preventive_screening_guidelines.txt",
+      "text": "eakdown, calluses, fungal infections, ulcerations, and Charcot neuroarthropathy.\n\n5. LIPID PROFILE AND CARDIOVASCULAR RISK EVALUATION\n- Frequency: Fasting or non-fasting lipid profile at initial diagnosis and at least annually thereafter.\n- Target LDL Cholesterol: In adults with diabetes aged 40-75 without ASCVD, moderate-intensity statin is recommended (target LDL-C < 70 mg/dL). For patients with established ASCVD or multiple high-risk factors, high-intensity statin plus ezetimibe is recommended (target LDL-C < 55 mg/dL).",
+      "char_count": 528
+    },
+    {
+      "chunk_id": "07_medication_adherence_and_monitoring.txt_chunk_000",
+      "source_name": "07_medication_adherence_and_monitoring.txt",
+      "text": "# Document Title: Pharmacological Management, Glycemic Self-Monitoring, and Treatment Adherence\n# Source: World Health Organization (WHO) & ADA Pharmacologic Treatment Guidelines\n# Document ID: DOC-07-PHARMACOTHERAPY-MONITORING",
+      "char_count": 227
+    },
+    {
+      "chunk_id": "07_medication_adherence_and_monitoring.txt_chunk_001",
+      "source_name": "07_medication_adherence_and_monitoring.txt",
+      "text": "rmacologic Treatment Guidelines\n# Document ID: DOC-07-PHARMACOTHERAPY-MONITORING\n\n1. FIRST-LINE MEDICAL PHARMACOTHERAPY\n- Metformin (Biguanide): Remains the foundational first-line pharmacological agent for Type 2 diabetes in the absence of contraindications (such as eGFR < 30 mL/min/1.73 m2 or acute metabolic acidosis). Metformin suppresses hepatic gluconeogenesis and increases peripheral insulin sensitivity without inducing hypoglycemia or weight gain.\n- SGLT2 Inhibitors (e.g., Empagliflozin, Dapagliflozin): In patients with established ASCVD, heart failure, or chronic kidney disease, SGLT2 inhibitors provide proven cardiorenal protection by blocking glucose and sodium reabsorption in the proximal renal tubules.\n- GLP-1 Receptor Agonists (e.g., Semaglutide, Liraglutide): Provide potent glucose lowering, significant body weight reduction, and superior cardiovascular event reduction.\n- Insulin Therapy: Indicated when catabolic symptoms (unexplained weight loss, ketosis), severe symptomatic hyperglycemia (blood glucose >= 300 mg/dL or HbA1c > 10%), or when non-insulin agents fail to maintain glycemic control.",
+      "char_count": 1125
+    },
+    {
+      "chunk_id": "07_medication_adherence_and_monitoring.txt_chunk_002",
+      "source_name": "07_medication_adherence_and_monitoring.txt",
+      "text": "L or HbA1c > 10%), or when non-insulin agents fail to maintain glycemic control.\n\n2. GLUCOSE MONITORING MODALITIES\n- Self-Monitoring of Blood Glucose (SMBG): Fingerstick capillary glucose testing using calibrated glucometers. Standard for patients on insulin regimens to adjust preprandial meal boluses and detect hypoglycemia.\n- Continuous Glucose Monitoring (CGM): Wearable interstitial subcutaneous sensors that report real-time glucose dynamics and trends.\n- CGM Key Metrics:\n * Time in Range (TIR, 70-180 mg/dL): Recommended target is > 70% of readings.\n * Time Below Range (TBR, < 70 mg/dL): Target is < 4% (and < 1% for < 54 mg/dL) to prevent severe hypoglycemic episodes.\n * Glucose Management Indicator (GMI): Estimated average HbA1c derived from continuous sensor data.",
+      "char_count": 779
+    },
+    {
+      "chunk_id": "07_medication_adherence_and_monitoring.txt_chunk_003",
+      "source_name": "07_medication_adherence_and_monitoring.txt",
+      "text": "nt Indicator (GMI): Estimated average HbA1c derived from continuous sensor data.\n\n3. TREATMENT ADHERENCE AND SAFETY PRECAUTIONS\n- Medication Discontinuation: Patients must never abruptly discontinue insulin or oral hypoglycemic medications without physician supervision, as this dramatically increases the risk of precipitating DKA or HHS.\n- Sick-Day Rules: During acute infections, vomiting, or fever, blood glucose can spike sharply due to counter-regulatory hormone release (cortisol, epinephrine). Patients must continue basal insulin, hydrate aggressively, check glucose every 2-4 hours, and contact their clinical care team.",
+      "char_count": 630
+    }
+  ]
+}

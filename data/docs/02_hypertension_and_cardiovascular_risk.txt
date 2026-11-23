@@ -1,0 +1,20 @@
+# Document Title: Hypertension Guidelines, Blood Pressure Staging, and Cardiovascular Complications
+# Source: American Heart Association (AHA) / American College of Cardiology (ACC) & CDC
+# Document ID: DOC-02-HTN-CARDIO
+
+1. BLOOD PRESSURE CLASSIFICATION CATEGORIES (ACC/AHA GUIDELINES)
+Blood pressure is categorized into four clinical tiers based on seated resting office measurements:
+- Normal Blood Pressure: Systolic BP < 120 mmHg AND Diastolic BP < 80 mmHg.
+- Elevated Blood Pressure: Systolic BP 120-129 mmHg AND Diastolic BP < 80 mmHg.
+- Stage 1 Hypertension: Systolic BP 130-139 mmHg OR Diastolic BP 80-89 mmHg.
+- Stage 2 Hypertension: Systolic BP >= 140 mmHg OR Diastolic BP >= 90 mmHg.
+- Hypertensive Crisis: Systolic BP > 180 mmHg and/or Diastolic BP > 120 mmHg. Requires prompt clinical assessment or emergency hospitalization if accompanied by target organ damage.
+
+2. SYNERGISTIC CARDIOVASCULAR RISK IN DIABETIC PATIENTS
+Hypertension and diabetes mellitus frequently coexist, creating an additive, multiplicative risk for macrovascular and microvascular pathology:
+- Atherosclerotic Cardiovascular Disease (ASCVD): The leading cause of morbidity and mortality among individuals with diabetes. Patients with both diabetes and hypertension have a 2- to 4-fold higher risk of myocardial infarction, heart failure, and stroke compared to non-diabetic individuals.
+- Endothelial Dysfunction: Insulin resistance and elevated glucose levels stimulate vascular smooth muscle cell proliferation, decrease nitric oxide bioavailability, and accelerate arterial stiffness.
+- Microvascular Renal Damage (Diabetic Kidney Disease / Nephropathy): Glomerular hypertension combined with hyperglycemia causes progressive glomerulosclerosis, leading to microalbuminuria, macroalbuminuria, and progressive loss of Estimated Glomerular Filtration Rate (eGFR).
+
+3. BLOOD PRESSURE TARGETS IN METABOLIC SYNDROME
+For adults with confirmed diabetes and hypertension, clinical guidelines recommend an on-treatment blood pressure target of < 130/80 mmHg, provided it can be safely attained without orthostatic hypotension or adverse drug events. First-line antihypertensive agents with renal-protective properties in diabetic patients include Angiotensin-Converting Enzyme (ACE) inhibitors or Angiotensin Receptor Blockers (ARBs), especially in the presence of urinary albuminuria.

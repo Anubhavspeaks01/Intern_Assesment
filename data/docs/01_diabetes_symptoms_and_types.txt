@@ -1,0 +1,31 @@
+# Document Title: Clinical Guidelines on Diabetes Mellitus: Types, Etiology, and Clinical Manifestations
+# Source: World Health Organization (WHO) & Centers for Disease Control and Prevention (CDC) Clinical Factsheets
+# Document ID: DOC-01-DIAB-OVERVIEW
+
+1. DEFINITION AND PATHOPHYSIOLOGY
+Diabetes mellitus is a chronic metabolic disorder characterized by persistent hyperglycemia resulting from defects in insulin secretion, insulin action, or both. Chronic hyperglycemia is associated with long-term damage, dysfunction, and failure of various organs, especially the eyes, kidneys, nerves, heart, and blood vessels.
+
+2. CLASSIFICATION OF DIABETES
+- Type 1 Diabetes Mellitus: An autoimmune disease characterized by immune-mediated pancreatic beta-cell destruction, leading to absolute insulin deficiency. It typically presents in children and young adults with acute onset.
+- Type 2 Diabetes Mellitus: Accounts for over 90% to 95% of all diabetes cases. It is characterized by progressive insulin secretory defect on the background of chronic insulin resistance. Strongly correlated with excess body adiposity, physical inactivity, advancing age, and polygenic predisposition.
+- Gestational Diabetes Mellitus (GDM): Glucose intolerance diagnosed in the second or third trimester of pregnancy that was not clearly overt diabetes prior to gestation.
+- Prediabetes: An intermediate metabolic state where blood glucose levels are higher than normal (fasting glucose 100-125 mg/dL or HbA1c 5.7%-6.4%) but below the threshold for clinical diabetes. Prediabetes carries a significant risk of progression to Type 2 diabetes and cardiovascular disease.
+
+3. CLASSIC CLINICAL SYMPTOMS
+Patients with symptomatic hyperglycemia frequently present with the classic triad of "polys":
+- Polyuria: Frequent urination triggered by osmotic diuresis when blood glucose exceeds renal threshold (~180 mg/dL).
+- Polydipsia: Excessive thirst resulting from fluid loss and cellular dehydration.
+- Polyphagia: Persistent excessive hunger due to cellular energy deprivation despite elevated circulating glucose.
+- Unexplained weight loss: Inability to utilize glucose causes catabolism of muscle tissue and adipose stores.
+- Generalized chronic fatigue and lethargy.
+- Blurred vision: Due to osmotic fluid shifts altering the shape of the crystalline lens of the eye.
+- Slow-healing sores, recurrent skin infections, or persistent candidiasis.
+
+4. MAJOR RISK FACTORS FOR TYPE 2 DIABETES
+- Overweight or obesity: Body Mass Index (BMI) >= 25 kg/m2 (or >= 23 kg/m2 in Asian populations).
+- Physical inactivity: Sedentary lifestyle with fewer than 3 sessions of exercise weekly.
+- Age: Being 45 years or older, although incidence is rising rapidly in younger cohorts.
+- Family history: First-degree relative (parent or sibling) with Type 2 diabetes.
+- High-risk race/ethnicity: African American, Hispanic/Latino, American Indian, Asian American, or Pacific Islander.
+- History of gestational diabetes or delivering a baby weighing > 9 pounds (4.1 kg).
+- Comorbidities: Hypertension (BP >= 130/80 mmHg), dyslipidemia (HDL < 35 mg/dL or triglycerides > 250 mg/dL), or polycystic ovary syndrome (PCOS).

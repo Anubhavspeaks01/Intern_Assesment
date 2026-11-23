@@ -1,0 +1,32 @@
+# Document Title: Acute Complications, Red-Flag Symptoms, and Emergency Consultation Guidelines
+# Source: Emergency Medicine / Endocrine Society & CDC Public Health Advisories
+# Document ID: DOC-05-RED-FLAGS-EMERGENCY
+
+1. IMMEDIATE EMERGENCY RED-FLAG CONDITIONS
+Patients with diabetes, metabolic syndrome, or severe hypertension who experience the following acute red-flag symptoms must seek immediate emergency medical care (call emergency medical services / 911 immediately):
+
+2. DIABETIC KETOACIDOSIS (DKA)
+DKA is a life-threatening acute metabolic decompensation characterized by profound insulin deficiency, severe hyperglycemia (typically > 250 mg/dL), metabolic acidosis, and ketonemia. While most prevalent in Type 1 diabetes, it can occur in Type 2 diabetes during severe physiologic stress (e.g., sepsis, myocardial infarction, acute pancreatitis).
+Red-Flag Warning Signs:
+- Fruity, acetone-scented breath odor.
+- Nausea, persistent vomiting, and acute abdominal pain.
+- Kussmaul respirations: Deep, rapid, labored breathing as respiratory compensation for metabolic acidosis.
+- Altered mental status: Progressive drowsiness, confusion, stupor, or coma.
+- High levels of ketones detected in urine or blood.
+
+3. HYPEROSMOLAR HYPERGLYCEMIC STATE (HHS)
+HHS is an acute metabolic emergency seen primarily in older adults with Type 2 diabetes. It carries a mortality rate of up to 10-20%.
+Red-Flag Warning Signs:
+- Extreme hyperglycemia: Blood glucose frequently exceeds 600 mg/dL (33.3 mmol/L).
+- Profound dehydration, dry mucous membranes, sunken eyes, hypovolemia, and tachycardia.
+- Severe neurological impairment: Confusion, delirium, visual hallucinations, hemiparesis, focal seizures, and coma. Ketosis is minimal or absent.
+
+4. SEVERE HYPOGLYCEMIA (BLOOD GLUCOSE < 54 MG/DL)
+Severe hypoglycemia is an acute clinical emergency where the patient requires third-party assistance to recover:
+- Confusion, bizarre behavior, disorientation, or inability to swallow.
+- Generalized seizures, convulsions, or loss of consciousness / diabetic coma.
+- Treatment Protocol: Do not force oral fluids into an unconscious patient. Administer emergency intramuscular or nasal glucagon, call 911, and position patient in recovery position to prevent aspiration.
+
+5. HYPERTENSIVE CRISIS AND ACUTE VASCULAR EMERGENCIES
+- Severe Blood Pressure Elevation: Systolic BP > 180 mmHg or Diastolic BP > 120 mmHg.
+- If accompanied by crushing chest pain, radiating left arm pain (acute coronary syndrome), shortness of breath (acute pulmonary edema), severe sudden headache, or acute focal neurological deficits (stroke warning signs - FAST: Face drooping, Arm weakness, Slurred speech, Time to call 911), immediately transport to emergency department.

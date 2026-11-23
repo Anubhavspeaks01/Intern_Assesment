@@ -1,0 +1,19 @@
+# Document Title: Evidence-Based Lifestyle Interventions: Nutrition, Physical Activity, and Weight Reduction
+# Source: American Diabetes Association (ADA) Standards of Care & CDC National Diabetes Prevention Program (NDPP)
+# Document ID: DOC-03-LIFESTYLE-NUTRITION
+
+1. DIETARY PATTERNS AND MEDICAL NUTRITION THERAPY (MNT)
+Lifestyle modification is the cornerstone of type 2 diabetes management and prevention:
+- Macronutrient Distribution: There is no ideal one-size-fits-all percentage of calories from carbohydrates, protein, and fat. Evidence strongly favors healthy dietary patterns such as the Mediterranean Diet, Dietary Approaches to Stop Hypertension (DASH), and whole-food plant-predominant dietary patterns.
+- Dietary Fiber: High intake of dietary soluble and insoluble fiber (minimum 25-35 grams daily or 14g/1000 kcal) delays carbohydrate absorption, blunts postprandial glucose spikes, and promotes healthy gut microbiota. Sources include legumes, whole oats, barley, chia seeds, vegetables, and berries.
+- Carbohydrate Quality: Emphasize complex carbohydrates with a low glycemic index and low glycemic load. Strongly discourage sugar-sweetened beverages (soda, fruit juices, sweetened teas), refined grains, pastries, and confectionery products.
+- Sodium Restriction: For patients with diabetes and hypertension, limit sodium intake to < 2,300 mg/day (or < 1,500 mg/day in individuals with severe hypertension or chronic kidney disease).
+- Healthy Fats: Replace saturated and trans-fats with mono- and polyunsaturated fatty acids found in extra virgin olive oil, nuts, seeds, avocados, and omega-3 fatty acids from wild-caught cold-water fish.
+
+2. PHYSICAL ACTIVITY RECOMMENDATIONS
+- Aerobic Exercise: Adults with prediabetes or diabetes should engage in at least 150 minutes of moderate-intensity aerobic physical activity per week (such as brisk walking, swimming, cycling, or water aerobics) spread over at least 3 days per week, with no more than 2 consecutive days without activity.
+- Resistance Training: Moderate-to-vigorous resistance training (free weights, resistance machines, or bodyweight exercises) at least 2 to 3 sessions per week on non-consecutive days enhances muscle insulin sensitivity and glucose uptake via GLUT-4 translocation independent of insulin.
+- Interrupting Sedentary Time: Prolonged sitting should be interrupted every 30 minutes with light walking or standing stretches to improve glycemic control.
+
+3. TARGET WEIGHT LOSS
+In individuals with overweight or obesity and prediabetes or type 2 diabetes, modest sustained weight loss of 5% to 7% of initial body weight significantly improves glycemic markers, reduces required medication dosages, and reduces progression from prediabetes to diabetes by up to 58% (71% in adults aged >= 60 years) based on the Landmark Diabetes Prevention Program (DPP) trial.

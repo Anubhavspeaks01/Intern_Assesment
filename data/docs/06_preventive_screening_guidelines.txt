@@ -1,0 +1,27 @@
+# Document Title: Preventive Screening Schedules, Microvascular Monitoring, and Clinical Surveillance
+# Source: American Diabetes Association (ADA) Clinical Practice Recommendations
+# Document ID: DOC-06-PREVENTIVE-SCREENING
+
+1. ROUTINE PREVENTIVE SURVEILLANCE SCHEDULE
+Early identification of microvascular and macrovascular disease allows timely therapeutic intervention to arrest progression:
+
+2. DIABETIC RETINOPATHY SCREENING
+- Frequency: Initial dilated and comprehensive eye examination by an ophthalmologist or optometrist upon diagnosis of Type 2 diabetes, and annually thereafter.
+- Rationale: Diabetic retinopathy is a leading cause of preventable adult blindness. Symptoms are typically absent until significant irreversible damage has occurred. Early laser photocoagulation or anti-VEGF intravitreal therapy prevents severe visual loss.
+
+3. DIABETIC KIDNEY DISEASE (NEPHROPATHY) SCREENING
+- Frequency: At least once annually, assess:
+  * Spot urinary albumin-to-creatinine ratio (uACR): Microalbuminuria is defined as 30-299 mg/g creatinine; Macroalbuminuria is >= 300 mg/g creatinine.
+  * Estimated Glomerular Filtration Rate (eGFR): Calculated from serum creatinine. Values < 60 mL/min/1.73 m2 indicate chronic kidney disease.
+- Management: Early ACE inhibitors, ARBs, or SGLT2 inhibitors retard nephropathy progression.
+
+4. COMPREHENSIVE DIABETIC FOOT EXAMINATION
+- Frequency: Annual comprehensive clinical foot examination, along with visual inspection at every routine office visit.
+- Diagnostic Tests:
+  * 10-gram Semmes-Weinstein monofilament test to identify loss of protective sensation (LOPS).
+  * Assessment of pedal pulses (dorsalis pedis and posterior tibial) to screen for peripheral artery disease (PAD).
+  * Inspection for skin breakdown, calluses, fungal infections, ulcerations, and Charcot neuroarthropathy.
+
+5. LIPID PROFILE AND CARDIOVASCULAR RISK EVALUATION
+- Frequency: Fasting or non-fasting lipid profile at initial diagnosis and at least annually thereafter.
+- Target LDL Cholesterol: In adults with diabetes aged 40-75 without ASCVD, moderate-intensity statin is recommended (target LDL-C < 70 mg/dL). For patients with established ASCVD or multiple high-risk factors, high-intensity statin plus ezetimibe is recommended (target LDL-C < 55 mg/dL).

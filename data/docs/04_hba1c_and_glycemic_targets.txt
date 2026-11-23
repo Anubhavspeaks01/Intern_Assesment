@@ -1,0 +1,30 @@
+# Document Title: Diagnostic Criteria, Glycemic Targets, and Glycated Hemoglobin (HbA1c) Monitoring
+# Source: National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) & ADA Guidelines
+# Document ID: DOC-04-HBA1C-TARGETS
+
+1. DIAGNOSTIC CRITERIA FOR DIABETES AND PREDIABETES
+Diabetes can be formally diagnosed using one of four validated laboratory measurements:
+- Glycated Hemoglobin (HbA1c):
+  * Normal: Below 5.7% (below 39 mmol/mol)
+  * Prediabetes: 5.7% to 6.4% (39 to 47 mmol/mol)
+  * Diabetes: 6.5% or higher (48 mmol/mol or higher)
+- Fasting Plasma Glucose (FPG) (after an overnight fast of at least 8 hours):
+  * Normal: Below 100 mg/dL (5.6 mmol/L)
+  * Impaired Fasting Glucose (Prediabetes): 100 to 125 mg/dL (5.6 to 6.9 mmol/L)
+  * Diabetes: 126 mg/dL (7.0 mmol/L) or higher
+- 2-Hour Oral Glucose Tolerance Test (OGTT) (75-gram anhydrous glucose dissolved in water):
+  * Normal: Below 140 mg/dL (7.8 mmol/L)
+  * Impaired Glucose Tolerance (Prediabetes): 140 to 199 mg/dL (7.8 to 11.0 mmol/L)
+  * Diabetes: 200 mg/dL (11.1 mmol/L) or higher
+- Random Plasma Glucose: In a patient with classic symptoms of severe hyperglycemia or hyperglycemic crisis, a random plasma glucose >= 200 mg/dL (11.1 mmol/L) confirms diagnosis.
+
+2. GLYCEMIC TARGETS FOR NON-PREGNANT ADULTS WITH DIABETES
+- General Adult HbA1c Target: Less than 7.0% (53 mmol/mol) for most non-pregnant adults without significant hypoglycemia.
+- Stringent Target (< 6.5%): May be appropriate for selected individuals with short disease duration, long life expectancy, and no significant cardiovascular disease, if achievable without hypoglycemia.
+- Less Stringent Target (< 8.0%): Appropriate for patients with severe history of hypoglycemia, limited life expectancy, advanced microvascular or macrovascular complications, or extensive comorbid conditions.
+- Preprandial Capillary Blood Glucose: 80 to 130 mg/dL (4.4 to 7.2 mmol/L).
+- Peak Postprandial Capillary Blood Glucose (1-2 hours after beginning of meal): Less than 180 mg/dL (10.0 mmol/L).
+
+3. FREQUENCY OF HBA1C TESTING
+- Perform HbA1c test at least twice a year in patients who are meeting treatment goals and have stable glycemic control.
+- Perform HbA1c quarterly (every 3 months) in patients whose therapy has changed or who are not meeting glycemic goals.

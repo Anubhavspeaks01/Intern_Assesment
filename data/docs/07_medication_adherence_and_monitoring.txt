@@ -1,0 +1,21 @@
+# Document Title: Pharmacological Management, Glycemic Self-Monitoring, and Treatment Adherence
+# Source: World Health Organization (WHO) & ADA Pharmacologic Treatment Guidelines
+# Document ID: DOC-07-PHARMACOTHERAPY-MONITORING
+
+1. FIRST-LINE MEDICAL PHARMACOTHERAPY
+- Metformin (Biguanide): Remains the foundational first-line pharmacological agent for Type 2 diabetes in the absence of contraindications (such as eGFR < 30 mL/min/1.73 m2 or acute metabolic acidosis). Metformin suppresses hepatic gluconeogenesis and increases peripheral insulin sensitivity without inducing hypoglycemia or weight gain.
+- SGLT2 Inhibitors (e.g., Empagliflozin, Dapagliflozin): In patients with established ASCVD, heart failure, or chronic kidney disease, SGLT2 inhibitors provide proven cardiorenal protection by blocking glucose and sodium reabsorption in the proximal renal tubules.
+- GLP-1 Receptor Agonists (e.g., Semaglutide, Liraglutide): Provide potent glucose lowering, significant body weight reduction, and superior cardiovascular event reduction.
+- Insulin Therapy: Indicated when catabolic symptoms (unexplained weight loss, ketosis), severe symptomatic hyperglycemia (blood glucose >= 300 mg/dL or HbA1c > 10%), or when non-insulin agents fail to maintain glycemic control.
+
+2. GLUCOSE MONITORING MODALITIES
+- Self-Monitoring of Blood Glucose (SMBG): Fingerstick capillary glucose testing using calibrated glucometers. Standard for patients on insulin regimens to adjust preprandial meal boluses and detect hypoglycemia.
+- Continuous Glucose Monitoring (CGM): Wearable interstitial subcutaneous sensors that report real-time glucose dynamics and trends.
+- CGM Key Metrics:
+  * Time in Range (TIR, 70-180 mg/dL): Recommended target is > 70% of readings.
+  * Time Below Range (TBR, < 70 mg/dL): Target is < 4% (and < 1% for < 54 mg/dL) to prevent severe hypoglycemic episodes.
+  * Glucose Management Indicator (GMI): Estimated average HbA1c derived from continuous sensor data.
+
+3. TREATMENT ADHERENCE AND SAFETY PRECAUTIONS
+- Medication Discontinuation: Patients must never abruptly discontinue insulin or oral hypoglycemic medications without physician supervision, as this dramatically increases the risk of precipitating DKA or HHS.
+- Sick-Day Rules: During acute infections, vomiting, or fever, blood glucose can spike sharply due to counter-regulatory hormone release (cortisol, epinephrine). Patients must continue basal insulin, hydrate aggressively, check glucose every 2-4 hours, and contact their clinical care team.
